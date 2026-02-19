@@ -1,0 +1,2 @@
+chcp 65001
+cmd /D /c start "RapidAccelerator" /B "C:\Users\raiak\Projects\EV_Charger\slprj\raccel\EVC\EVC.exe" --config "C:\Users\raiak\AppData\Local\Temp\raccel_inputp1a60a365_b6e0_4756_a666_b726880c4dd4.cfg" -server_info_file "C:\Users\raiak\AppData\Local\Temp\tpp1a60a365_b6e0_4756_a666_b726880c4dd4.info" -tgtconn_server_info_file "C:\Users\raiak\AppData\Local\Temp\tgtconnp1a60a365_b6e0_4756_a666_b726880c4dd4.info" -tgtconn_port 0 -port 0 -w >"C:\Users\raiak\Projects\EV_Charger\slprj\raccel\EVC\cmdLog.txt"
